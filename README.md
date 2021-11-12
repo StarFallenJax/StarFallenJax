@@ -1,6 +1,6 @@
 - 👋 Hey there, I'm @SpaceManJax. I'm a pretty cool person but I'm not the best coder
 - 👀 I’m interested in mostly videogames
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and HTML
 
 <!---
 SpaceManJax/SpaceManJax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
