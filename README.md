@@ -1,5 +1,4 @@
-- 👋 Hey there, I'm @SpaceManJax. I'm a pretty cool person but I'm not the best coder
-- 👀 I’m interested in mostly videogames
+- 👋 I'm @SpaceManJax, basically the coolest guy around, no buts. But really, I like making stuff.
 - 🌱 I’m currently learning Javascript and HTML
 
 <!---
