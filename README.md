@@ -1,4 +1,4 @@
-- 👋 I'm @SpaceManJax, basically the coolest guy around, no buts. But really, I like making stuff.
+- 👋 I'm @SpaceManJax, basically the coolest person around, no buts. But really, I like making stuff.
 - 🌱 I’m currently learning Javascript and HTML
 
 <!---
