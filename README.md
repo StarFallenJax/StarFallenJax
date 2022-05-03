@@ -1,5 +1,10 @@
-- 👋 I'm @SpaceManJax, basically the coolest person around, no buts. But really, I like making stuff.
-- 🌱 I’m currently learning Javascript and HTML
+# About Me
+
+- 👋 Hey! I'm SpaceManJax, but you can just call me Jax.
+- 🌱 I’m currently learning Python and JS
+- 📫 [Website](spacemanjax.github.io/linktree)
+
+# Stats
 
 [![Jax's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacemanjax&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
