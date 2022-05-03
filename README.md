@@ -1,6 +1,8 @@
 - 👋 I'm @SpaceManJax, basically the coolest person around, no buts. But really, I like making stuff.
 - 🌱 I’m currently learning Javascript and HTML
 
+[![Jax's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacemanjax)](https://github.com/spacemanjax/github-readme-stats)
+
 <!---
 SpaceManJax/SpaceManJax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
