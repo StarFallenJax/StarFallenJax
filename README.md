@@ -6,7 +6,7 @@
 - 📫 [Website](https://spacemanjax.github.io/Linktree/)
 
 #### Stats
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=spacemanjax&show_icons=true&theme=gruvbox)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=spacemanjax&show_icons=true&theme=tokyonight)
 
 <!---
 SpaceManJax/SpaceManJax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
