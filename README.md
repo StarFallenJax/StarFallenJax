@@ -1,10 +1,11 @@
-# About Me
+#### About Me
 
 - 👋 Hey! I'm SpaceManJax, but you can just call me Jax.
 - 🌱 I’m currently learning Python and JS
+- ❤️ I love modding games
 - 📫 [Website](https://spacemanjax.github.io/Linktree/)
 
-# Stats
+#### Stats
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=spacemanjax&show_icons=true&theme=gruvbox)
 
 <!---
