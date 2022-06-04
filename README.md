@@ -3,7 +3,7 @@
 - 👋 Hey! I'm SpaceManJax, but you can just call me Jax.
 - 🌱 I’m currently learning Python and JS
 - ❤️ I love modding games
-- 📫 My [Website](https://spacemanjax.github.io/Linktree/)
+- 📫 My [Website](https://starfallenjax.github.io/Linktree/)
 
 #### Stats
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=starfallenjax&show_icons=true&theme=tokyonight)
