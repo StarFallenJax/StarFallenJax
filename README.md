@@ -1,6 +1,6 @@
 #### About Me
 
-- 👋 Hey! I'm SpaceManJax, but you can just call me Jax.
+- 👋 Hey! I'm StarFallenJax, but you can just call me Jax.
 - 🌱 I’m currently learning Python and JS
 - ❤️ I love modding games
 - 📫 My [Website](https://starfallenjax.github.io/Linktree/)
