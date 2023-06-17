@@ -2,7 +2,7 @@
 
 - 👋 Oh hey. I'm StarFallenJax, but you can just call me Jax.
 - 🌱 I’m currently learning Java
-- ❤️ I love modding games
+- ❤️ I love raccoons!! (and I suppose modding games as well...)
 - 💾 My [Website](https://starfallenjax.xyz)
 
 #### Stats
