@@ -1,5 +1,5 @@
 #### About Me
-Hi, I'm Jax. 50% of the time, my code works all of the time. 
+50% of the time, my code works all of the time. 
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=starfallenjax&show_icons=true&theme=tokyonight)
 
