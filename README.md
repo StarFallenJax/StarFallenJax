@@ -1,5 +1,5 @@
 #### About Me
-guitarist, programmer, artist, hobbyist, student
+programmer, guitarist, artist, hobbyist, student. i wouldnt have it any other way
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=starfallenjax&show_icons=true&theme=tokyonight)
 
